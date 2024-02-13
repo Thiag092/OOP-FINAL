@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Estudiante
+comment0.text=\r\n\ Clase\ Estudiante.\r\n\r\n\ @author\ (Del\ Valle\ Aguilar,\ Mauro\ L)\r\n
+comment1.params=p_dniSocio\ p_nombre\ p_carrera
+comment1.target=Estudiante(int,\ java.lang.String,\ java.lang.String)
+comment2.params=p_carrera
+comment2.target=void\ setCarrera(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getCarrera()
+comment4.params=
+comment4.target=boolean\ puedePedir()
+comment5.params=
+comment5.target=java.lang.String\ soyDeLaClase()
+numComments=6

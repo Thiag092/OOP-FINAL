@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Docente
+comment0.text=\r\n\ Clase\ Docent.\r\n\r\n\ @author\ (Del\ Valle\ Aguilar,\ Mauro\ L)\r\n
+comment1.params=p_dniSocio\ p_nombre\ p_area
+comment1.target=Docente(int,\ java.lang.String,\ java.lang.String)
+comment2.params=p_area
+comment2.target=void\ setArea(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getArea()
+comment4.params=
+comment4.target=boolean\ esResponsable()
+comment5.params=p_dias
+comment5.target=void\ agregarDiasDePrestamo(int)
+comment6.params=
+comment6.target=java.lang.String\ soyDeLaClase()
+numComments=7
